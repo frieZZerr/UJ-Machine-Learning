@@ -27,3 +27,15 @@ Code: [project_1](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_
 :white_check_mark: 5.0 - [Extend the Fisher's classifier to work with two features](https://github.com/frieZZerr/UJ-Machine-Learning/commit/11ed262a82837f784654621cb3fbdfcfbfcac0f7)
 
 Code: [project_2](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_2)
+
+## Project 3 - Decision Trees
+
+:white_check_mark: 3.0 - [Rewrite the CART method to the Gini index](https://github.com/frieZZerr/UJ-Machine-Learning/commit/1f5f79db4bb75a1a61ae730e49d50fe8bfc34065)
+
+:white_check_mark: 3.5 - [Use pydot do draw the tree for C4.5 example](https://github.com/frieZZerr/UJ-Machine-Learning/commit/46f6487c215c9cb8f837281f02b4ae0a2215c66d)
+
+:white_check_mark: 4.0 - [Implement the minimum number of objects pruning method](https://github.com/frieZZerr/UJ-Machine-Learning/commit/ae5849ef912d035b15c52b73a6d0182d4d456a42)
+
+:x: 5.0 - [Plot OC1 tree, but instead of elements id, print the feature id it was split by]()
+
+Code: [project_3](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_3)
