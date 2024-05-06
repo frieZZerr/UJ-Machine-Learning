@@ -39,3 +39,11 @@ Code: [project_2](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_
 :x: 5.0 - [Plot OC1 tree, but instead of elements id, print the feature id it was split by]()
 
 Code: [project_3](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_3)
+
+## Project 4 - Ensemble
+
+:white_check_mark: 3.0 - [Find the best three classifier in the stacking method](https://github.com/frieZZerr/UJ-Machine-Learning/commit/6353153523ed6ba6aac0b1240f0a7a9487e6e850)
+
+:white_check_mark: 5.0 - [Build arcing arc-x4 method](https://github.com/frieZZerr/UJ-Machine-Learning/commit/5c867b98862badfcd4cf436b76a3f99bcd10238a)
+
+Code: [project_4](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_4)
