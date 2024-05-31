@@ -55,3 +55,17 @@ Code: [project_4](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_
 :x: 5.0 - [Implement a multiclass C-SVM]()
 
 Code: [project_5](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_5)
+
+## Project 6 - NLP
+
+:white_check_mark: 3.0 - [Build tokenizer](https://github.com/frieZZerr/UJ-Machine-Learning/commit/ec67dacdf9dc917e4bbe25b722db3b0f989b60a9)
+
+:white_check_mark: 3.5 - [Get tags from Trump speech using NLTK](https://github.com/frieZZerr/UJ-Machine-Learning/commit/f804b4665532c49fd1baf17c5b558dcd37e65778)
+
+:white_check_mark: 4.0 - [Find the nouns divided by sentencens](https://github.com/frieZZerr/UJ-Machine-Learning/commit/11c023523ab818818f29793ccc227a09703bb944)
+
+:white_check_mark: 4.5 - [Build Bag Of Words implementation](https://github.com/frieZZerr/UJ-Machine-Learning/commit/5cd5893dfbbe17f3b09ae36478fe0065249c5187)
+
+:white_check_mark: 5.0 - [Build a 5-gram model](https://github.com/frieZZerr/UJ-Machine-Learning/commit/15f511dda9651e4419889905e57b007259bca48d)
+
+Code: [project_6](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_6)
