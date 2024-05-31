@@ -47,3 +47,11 @@ Code: [project_3](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_
 :white_check_mark: 5.0 - [Build arcing arc-x4 method](https://github.com/frieZZerr/UJ-Machine-Learning/commit/5c867b98862badfcd4cf436b76a3f99bcd10238a)
 
 Code: [project_4](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_4)
+
+## Project 5 - SVM
+
+:white_check_mark: 3.0 - [Polynomial kernel](https://github.com/frieZZerr/UJ-Machine-Learning/commit/67c22dee86fc46046c373f1eaefb31f5685fe0b7)
+
+:x: 5.0 - [Implement a multiclass C-SVM]()
+
+Code: [project_5](https://github.com/frieZZerr/UJ-Machine-Learning/tree/project_5)
